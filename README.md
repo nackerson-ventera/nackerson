@@ -1,6 +1,6 @@
 ### It's a mee  👋
 ![alt text](https://github.com/nackerson/nackerson/blob/master/mario3.gif "It's a me")
-- 🔭 I’m currently working on iQIES
+- 🔭 I’m currently working on Enterprise Innovation and Product for a Government Agency
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on emerging technologies
 - 💬 Ask me about Product Strategy/Emerging Tech/Data Privacy
