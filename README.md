@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on iQIES
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on emerging technologies
-- 💬 Ask me about Product Strategy/Roadmapping/Data Privacy
+- 💬 Ask me about Product Strategy/Emerging Tech/Data Privacy
 
 <!--
 **nackerson/nackerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
