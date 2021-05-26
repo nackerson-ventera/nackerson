@@ -1,7 +1,7 @@
 ### It's a mee  👋
 ![alt text](https://github.com/nackerson/nackerson/blob/master/mario3.gif "It's a me")
 - 🔭 I’m a Product Manager and a former Google Developers Expert (Evangelist) for product strategy. 
-- 👯 I'm currently wrapping up work on iQIES
+- 👯 I'm currently wrapping up work with SiriusXM/Pandora
 - 🌱 I’m currently learning Machine Learning, working towards MLOps for Enterprise Applications
 - 👯 I’m looking to collaborate on emerging technologies
 - 💬 Ask me about Product Strategy/Emerging Tech/Data Privacy
