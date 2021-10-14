@@ -28,7 +28,10 @@ I despise the phrase, “We’ve always done…”. My goal is to continuously l
 Finally, I enjoy a bad coffee; some of my best work has been accomplished over drinks. Whether you need to get something off your chest, you need to hash out an idea, or you just need a break from your work; please grab me - let’s connect!
 
 # The Product Team
-I manage individual contributors (ICs) in our, DC office. You'll eventually get to know all of those people, start by getting to know the team the scrum team.
+I manage individual contributors (ICs). You'll eventually get to know all of those people, start by getting to know the members of your team and practice.
+
+# The AI Practice
+TODO: Revise
 
 # One-on-ones
 I’m big on 1:1s. I believe that these meetings are for you to set the agenda. What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be status updates unless you really want to talk about project status. For in-person chats, I really enjoy walking 1:1s or sitting down for coffee. If there are things that I want to ask you, I’ll do it, but this is your time. The length, frequency, and medium are also up to you, but my hope is that we’ll have at least 30 minutes a week, with an optimal 60 minutes per week. This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing performance, etc.) so that we still have room for more timely 1:1 chat.
