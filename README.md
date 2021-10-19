@@ -31,7 +31,13 @@ Finally, I enjoy a bad coffee; some of my best work has been accomplished over d
 I manage individual contributors (ICs). You'll eventually get to know all of those people, start by getting to know the members of your team and practice.
 
 # The AI Practice
-TODO: Revise
+Our AI practice is called Human-centered AI at Ventera (HAIV). Internally, you'll often hear it referred to as AI Vengers (AIV). At Ventera our focus is to bring our clients ML needs into production thus, we're looking to set ourselves apart by combining Ventera's mature User-centered design and DevOps practice. These are a few principles to guide how we build:
+
+1. Build AI solutions for Humans
+2. Understand and help our clients interpret data models
+3. Explain to users how the model got to it's inferences or predicitons.
+ 
+Executing applied production ML with these principles empowers multidisciplinary teams to avoid disproportionate product failure, bias, harm to humans, and promotes fairness for our clients and their users' needs.
 
 # One-on-ones
 I’m big on 1:1s. I believe that these meetings are for you to set the agenda. What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be status updates unless you really want to talk about project status. For in-person chats, I really enjoy walking 1:1s or sitting down for coffee. If there are things that I want to ask you, I’ll do it, but this is your time. The length, frequency, and medium are also up to you, but my hope is that we’ll have at least 30 minutes a week, with an optimal 60 minutes per week. This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing performance, etc.) so that we still have room for more timely 1:1 chat.
