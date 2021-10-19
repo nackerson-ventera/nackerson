@@ -21,7 +21,7 @@ I’m here to help and support you, to set context for what you’re working on,
 # Personal Idiosyncrasies	
 I’m excited when teams fail fast, learn from their mistakes, course correct and share that knowledge with others. This builds an environment that does not fear risk-taking, develops ownership and autonomy in their work, and is collaborative at its core.
 
-I get animated when projects excite me or circumstances beyond our control limit us. In these moments I’ve may use “colorful language”. Know that this isn’t directed towards you and is an indicator that I trust, and am comfortable in our relationship.
+I get animated when projects excite me or circumstances beyond our control limit us. In these rare moments I’ve may use “colorful language”. Know that this isn’t directed towards you and is an indicator that I trust, and am comfortable in our relationship.
 
 I despise the phrase, “We’ve always done…”. My goal is to continuously learn, to create leaders and push organizations to the next level, by that very nature we can not continue doing what we’ve always done. 
 
