@@ -13,7 +13,7 @@ As a manager, on-boarding is both tough and really important whether you’re jo
 
 # My OKRs - Currently
 
-[What am I currently tracking?](https://docs.google.com/spreadsheets/d/168OWP4Klzi63Xxi061NxqCgB2gvzIKutZQKb9Ly_iOc/edit#gid=0) | OKRs for 2022 - See the Product Management & Innovation workbook (Note: this is a snapshot. OKRs are updated in GTMHub)
+#### [What am I currently tracking?](https://docs.google.com/spreadsheets/d/168OWP4Klzi63Xxi061NxqCgB2gvzIKutZQKb9Ly_iOc/edit#gid=0) | OKRs for 2022 - See the Product Management & Innovation workbook (Note: this is a snapshot. OKRs are updated in GTMHub)
 
 # My leadership compass
 I’m here to help and support you, to set context for what you’re working on, and to advocate for you and our internal team and our clients. I intend to lead by setting the example. I will inspire through [coaching, mentoring](https://drive.google.com/drive/folders/16fcVOr5BMqT2V44Ry5VoFpaP5AitomnC)  and [laying frameworks](https://nditech.github.io/git-styleguide/) to helping my scrum team ship quality code more often. I will not ask you to do something that I’m not willing to do, or that I haven’t done before. My responsibility is you, your welfare, and your ability to execute upon the mission. By listening to your concerns and recognizing your achievements, I strive to make you a fulfilled, efficient, and productive member of our team.
