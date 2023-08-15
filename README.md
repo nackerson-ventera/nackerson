@@ -6,15 +6,14 @@
 - 💬 Ask me about Product Strategy,AI & Data Ethics, AR&VR for the Enterprise, or Data Governance.
 
 # Manager Readme: Director  Product and Technology 
-*(Note this is adapted from my leadership compass at a previous company but the concepts mostly apply at Ventera*
+*(Note this is adapted from my leadership compass at a previous company but the concepts mostly apply at Ventera)*
+
 As a manager, onboarding is both tough and really important whether you’re joining a team or they’re joining yours. My very short list for onboarding in either direction is:
 
 * Share expectations
 * Build trust
 
-# My OKRs - Currently
 
-#### [What am I currently tracking?](https://docs.google.com/spreadsheets/d/168OWP4Klzi63Xxi061NxqCgB2gvzIKutZQKb9Ly_iOc/edit#gid=0) | OKRs for 2022 - See the Product Management & Innovation workbook (Note: this is a snapshot. OKRs are updated in GTMHub)
 
 # My leadership compass
 I’m here to help and support you, to set the context for what you’re working on, and to advocate for you and our internal team and our clients. I intend to lead by setting the example. I will inspire through [coaching, mentoring](https://drive.google.com/drive/folders/16fcVOr5BMqT2V44Ry5VoFpaP5AitomnC)  and [laying frameworks](https://nditech.github.io/git-styleguide/) to helping my scrum team ship quality code more often. I will not ask you to do something that I’m not willing to do, or that I haven’t done before. My responsibility is you, your welfare, and your ability to execute the mission. By listening to your concerns and recognizing your achievements, I strive to make you a fulfilled, efficient, and productive member of our team.
@@ -55,7 +54,9 @@ I am a proponent of the [DRI model](https://www.quora.com/How-well-does-Apples-D
 # Your Philosophies
 I’ve written a lot here about my philosophies but a fair amount of my job is adapting to your needs and philosophies, and I look forward to talking to you about them!
 
+# My OKRs - Currently (TODO: Update)
 
+**[What OKRs am I currently tracking?](https://docs.google.com/spreadsheets/d/168OWP4Klzi63Xxi061NxqCgB2gvzIKutZQKb9Ly_iOc/edit#gid=0) | OKRs for 2022 - See the Product Management & Innovation workbook (Note: this is a snapshot. OKRs are updated in GTMHub)**
 <!--
 **nackerson/nackerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
